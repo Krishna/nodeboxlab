@@ -20,7 +20,6 @@ draw_axis()
 dot(0,0)
 dot(width-3, height-3)
 
-
 translate(width/2, height/2)
 
 stroke(1.0, 0.0, 0.5)
